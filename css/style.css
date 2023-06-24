@@ -1,0 +1,65 @@
+body{
+    background-image: url("../img/giphy.gif");
+
+}
+
+div{
+    background-color: white;
+    box-shadow: 2px 3px black;
+}
+.kirbyClock {
+    
+    text-align: center;
+    padding: 30px;
+    background-image:url('../img/Gjo.gif');
+    background-repeat: no-repeat;
+
+    background-size: 100px;
+    
+    border-radius: 10px;
+   
+    width: 300px;
+    margin: 20% 4% 0% 39%;
+    box-shadow: 2px 4px 2px  2px  black;
+    border: 5px dashed rgb(244, 174, 174);
+}
+
+
+.kirbyClock h1 {
+    font-size: 48px;
+    margin-top: 0;
+    color: #f44336;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s; /* Add a transition for smooth animation */
+}
+
+.kirbyClock h1:hover {
+    transform: scale(1.2); /* Scale the element by 1.2 on hover */
+}
+
+
+
+@media (max-width: 768px) {
+    .kirbyClock {
+        width: 80%;
+        margin: 20% auto 0;
+    }
+
+    .kirbyClock h1 {
+        font-size: 36px;
+    }
+}
+
+@media (max-width: 480px) {
+    .kirbyClock {
+        width: 90%;
+        margin: 30% auto 0;
+        padding: 20px;
+    }
+
+    .kirbyClock h1 {
+        font-size: 24px;
+    }
+}
+
+
