@@ -1,4 +1,4 @@
-<h1> Kirby Clocl </h1>
+<h1> Kirby Clock </h1>
 
 <p> Click <a href="https://kirbyclock.netlify.app/"> Here </p> </a> <p>to see live </p>
 
