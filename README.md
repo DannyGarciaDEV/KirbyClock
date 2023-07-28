@@ -1,6 +1,5 @@
-<h1> Kirby Clock </h1>
+<h1>Kirby Clock</h1>
 
-<p> Click <a href="https://kirbyclock.netlify.app/> </a>here </p><p>to see live </p> 
+<p>Click <a href="https://kirbyclock.netlify.app/">here</a> to see it live.</p>
 
-
-![Alt Text](img/kirbyclock.png)
+![Alt Text](https://example.com/img/kirbyclock.png)
